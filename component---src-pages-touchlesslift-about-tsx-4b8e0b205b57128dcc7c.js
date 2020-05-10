@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{ZeWJ:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n("yE/o"),o=n("3mGJ"),l=n("aQu0"),r=n("D1pA"),i=n("soUV");t.default=Object(i.b)((function(){return a.createElement(c.a,null,a.createElement(o.a,{vertical:!0},a.createElement(l.a,{as:"h2"},a.createElement(r.a,{name:"info circle"}),a.createElement(l.a.Content,null,"About TouchLessLift"))),a.createElement(o.a,{vertical:!0},"Comming soon"))}))}}]);
+//# sourceMappingURL=component---src-pages-touchlesslift-about-tsx-4b8e0b205b57128dcc7c.js.map
